@@ -1,1 +1,1 @@
-http://127.0.0.1:5500/index.html
+https://phamquoctoan123.github.io/bngw-2008/
