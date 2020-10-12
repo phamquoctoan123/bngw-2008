@@ -1,2 +1,1 @@
-# bngw-2008
-The 1st static website of mine
+http://127.0.0.1:5500/index.html
